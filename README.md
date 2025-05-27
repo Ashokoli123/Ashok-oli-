@@ -1,5 +1,5 @@
 # Ashok-oli-
-This is my first Git Repository.
-<br>
-this is my timepass project
-</br>
+ tit for tat
+ <br>
+ wearer knows where the shoes pinches
+ </br>
